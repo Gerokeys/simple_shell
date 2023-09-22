@@ -1,11 +1,11 @@
 #include "shell.h"
 
-/**
- **_strncpy - copies a string provided by the user
- *@dest: the destination string to be copied to the function
- *@src: the source string
- *@n: the amount of characters to be copied
- *Return: the concatenated string in the function
+/**erty
+ **_strncpy - copies a stringert
+ *@dest: the destination striertyng to be copied to
+ *@src: the source stringrtye
+ *@n: tdgfhdgfhe amount of charactsfdsers to be copied
+ *Return: the hjkfconcatenated string
  */
 char *_strncpy(char *dest, char *src, int n)
 {
@@ -31,11 +31,11 @@ char *_strncpy(char *dest, char *src, int n)
 }
 
 /**
- **_strncat - concatenates two strings provided in the function by the user
- *@dest: the first string
- *@src: the second string in the function
- *@n: the amount of bytes to be maximally used
- *Return: the concatenated string that was in the function
+ **_strncat - concatenates two strings
+ *@dest: the first stringada
+ *@src: the second stringadad
+ *@n: the amount of bytes to asgasgbe maximally used
+ *Return: the concatenated stringasgadaae
  */
 char *_strncat(char *dest, char *src, int n)
 {
@@ -58,10 +58,10 @@ char *_strncat(char *dest, char *src, int n)
 }
 
 /**
- **_strchr - locates a character in the alleged string
- *@s: the string to be parsed t the function
- *@c: the character to look for in the function
- *Return: (s) a pointer to the memory area S
+ **_strchr - locates a character inastring
+ *@s: the string to be parsed
+ *@c: the character to look forzdsfaga
+ *Return: (s) a pointer to the memorday area s
  */
 char *_strchr(char *s, char c)
 {
@@ -72,3 +72,4 @@ char *_strchr(char *s, char c)
 
 	return (NULL);
 }
+
